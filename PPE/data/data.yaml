@@ -1,0 +1,14 @@
+
+train: /home/mhung/Documents/python/object_detection/PPE/data/train/images
+val: /home/mhung/Documents/python/object_detection/PPE/data/valid/images
+test: /home/mhung/Documents/python/object_detection/PPE/data/test/images
+
+nc: 10
+names: ['boots', 'gloves', 'helmet', 'helmet on', 'no boots', 'no glove', 'no helmet', 'no vest', 'person', 'vest']
+
+roboflow:
+  workspace: ppe-nxver
+  project: construction-mbihh-0ta0f
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ppe-nxver/construction-mbihh-0ta0f/dataset/1
