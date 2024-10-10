@@ -1,3 +1,3 @@
-## Object_detection project where i learn about YOLO 
-# only some random small object detection to make a final big project for object detection
+## Object_detection project where I learn about YOLO 
+# Only some random small object detection prjs to make a final big project for object detection
 
